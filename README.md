@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
