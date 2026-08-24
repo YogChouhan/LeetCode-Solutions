@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
