@@ -12,8 +12,11 @@ public:
         for(int j=0; j<len2; j++){
             freq_alphabets[t[j]-'a']--;
         }
-        for(int k=1; k<26; k++){
-            if(freq_alphabets[k]!=0) return false;
+        // for(int k=1; k<26; k++){
+        //     if(freq_alphabets[k]!=0) return false;
+        // }
+        for(int k: freq_alphabets){
+            if(k!=0) return false;
         }
         return true;
     }
