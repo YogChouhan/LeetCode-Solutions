@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
