@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
