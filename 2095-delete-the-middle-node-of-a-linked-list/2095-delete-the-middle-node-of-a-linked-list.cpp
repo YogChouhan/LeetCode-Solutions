@@ -11,15 +11,18 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if(head == NULL || head->next == NULL) return NULL; 
-        ListNode *fast = head->next->next, *slow = head, *middleNode; // skipping one step for slow pointer. Normally, the slow will point to the middle node but we need the node before it so we skip one iteration for slow pointer.
+        if(head==NULL || head->next==NULL){
+            return NULL;
+        }
+        ListNode* slow = head;
+        ListNode* fast = head->next->next; // skipping one step for slow pointer. Normally, the slow will point to the middle node but we need the node before it so we skip one iteration for slow pointer.
         while(fast != NULL && fast->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
         }
-        middleNode = slow->next;
+        ListNode* midNode = slow->next;
         slow->next = slow->next->next;
-        delete middleNode;
+        delete(midNode);
         return head;
     }
 };
