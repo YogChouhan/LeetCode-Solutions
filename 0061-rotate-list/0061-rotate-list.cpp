@@ -14,23 +14,29 @@ public:
         if(head == nullptr || head->next == nullptr) return head;
         ListNode *temp = head;
         int n = 0;
-        while(temp != nullptr){
+        while(temp != nullptr){ //counting total number of nodes
             n++;
             temp = temp->next;
         }
         if(k % n == 0) return head;
+
         k = k % n;
         k = n - k;
         temp = head;
+
         for(int i = 0; i < k-1; i++){
             temp = temp->next;
         }
+
+        //detaching the second LL and appending the first LL at the end of second LL
         ListNode *newHead = temp->next, *newTemp = newHead;
         temp->next = nullptr;
+
         while(newTemp->next != nullptr){
             newTemp = newTemp->next;
         }
         newTemp->next = head;
+
         return newHead;
     }
 };
