@@ -17,11 +17,13 @@ public:
         dummy.next = head;
         ListNode *back = &dummy, *curr=head;
 
-        for(int i = 0; i < left - 1; i++){
+        //reaching the left node
+        for(int i = 0; i < left - 1; i++){ 
             back = back->next;
             curr = curr->next;
         }
-
+        
+        // reversing the nodes from left to right
         ListNode *prev = nullptr, *front;
         for(int i = 0; i < right-left+1; i++){
             front = curr->next;
@@ -29,7 +31,8 @@ public:
             prev = curr;
             curr = front;
         }
-        
+
+        // re-establishing links between nodes
         back->next->next = curr;
         back->next = prev;
 
