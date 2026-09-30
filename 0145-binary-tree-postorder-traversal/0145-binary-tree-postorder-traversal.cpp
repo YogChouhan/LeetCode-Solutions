@@ -11,15 +11,49 @@
  */
 class Solution {
 public:
-    vector<int> result;
-    void postOrder(TreeNode *root){
-        if(root == nullptr) return;
-        postOrder(root->left);
-        postOrder(root->right);
-        result.push_back(root->val);
-    }
     vector<int> postorderTraversal(TreeNode* root) {
-        postOrder(root);
-        return result;
+        TreeNode *curr = root;
+        vector<int> postOrder;
+        stack<TreeNode*> st;
+        while(curr != nullptr || !st.empty()){
+            if(curr != nullptr){
+                st.push(curr);
+                curr = curr->left;
+            }
+            else{
+                TreeNode *temp = st.top()->right;
+                if(temp == nullptr){
+                    temp = st.top();
+                    st.pop();
+                    postOrder.push_back(temp->val);
+                    while(!st.empty() && temp==st.top()->right){
+                        temp = st.top();
+                        st.pop();
+                        postOrder.push_back(temp->val);
+                    }
+                }
+                else{
+                    curr = temp;
+                }
+            }
+        }
+        return postOrder;
     }
 };
+
+// TC: O(2N), SC: O(2N)
+
+// class Solution {
+// public:
+//     vector<int> result;
+//     void postOrder(TreeNode *root){
+//         if(root == nullptr) return;
+//         postOrder(root->left);
+//         postOrder(root->right);
+//         result.push_back(root->val);
+//     }
+//     vector<int> postorderTraversal(TreeNode* root) {
+//         postOrder(root);
+//         return result;
+//     }
+// };
