@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -417,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
