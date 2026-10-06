@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -431,14 +432,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
