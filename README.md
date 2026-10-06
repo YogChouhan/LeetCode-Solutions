@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
