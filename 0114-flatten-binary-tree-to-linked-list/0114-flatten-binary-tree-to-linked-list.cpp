@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    int cnt = 0;
     queue<TreeNode *> q;
     void flatten(TreeNode* root) {
         if (root == nullptr) return;
@@ -31,7 +30,6 @@ public:
     void preOrder(TreeNode* root){
         //root, left, right
         if(root == nullptr) return;
-        cnt++;
         q.push(root);
         preOrder(root->left);
         preOrder(root->right);
