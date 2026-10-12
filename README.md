@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -324,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
