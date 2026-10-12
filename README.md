@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
