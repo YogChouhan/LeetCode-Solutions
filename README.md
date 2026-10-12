@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Minimax
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Newton's Method
 |  |
