@@ -27,6 +27,7 @@ private:
 
         }
     }
+
 public:
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
@@ -47,3 +48,6 @@ public:
         return numberOfIslands;
     }
 };
+
+// TC: O(N * M)
+// SC: O(N * M)
