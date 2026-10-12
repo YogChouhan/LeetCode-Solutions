@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
