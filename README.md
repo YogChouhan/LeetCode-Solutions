@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Manacher
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
