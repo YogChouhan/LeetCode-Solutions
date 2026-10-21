@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0733-flood-fill](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Newton's Method
 |  |
 | ------- |
@@ -571,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/YogChouhan/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
